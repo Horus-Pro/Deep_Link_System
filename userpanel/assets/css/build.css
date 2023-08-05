@@ -1,0 +1,13 @@
+.wrapper20 {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 250px;
+}
+.wrapper20 > div {
+  background: #ddd;
+  line-height: 50px;
+  height: 50px;
+  margin: 5px;
+  text-align: center;
+}
